@@ -1,12 +1,7 @@
 # Hospedaje El Timotel
 
 Sitio web de reservas del Hospedaje El Timotel (Sahagún, Córdoba).
-Proyecto de Diseño Web - Universidad de Córdoba.
-
-## Cómo verlo
-Los datos se leen con `fetch` desde `data/*.json`, así que el sitio debe abrirse desde un servidor:
-- **VS Code:** instala la extensión *Live Server*, clic derecho en `index.html` y "Open with Live Server".
-- **GitHub Pages:** Settings > Pages > rama `main`.
+Proyecto de Diseño Web - Universidad de Córdob
 
 ## Estructura
 - `index.html`, `habitaciones.html`, `habitacion.html`, `servicios.html`, `informacion.html`, `contacto.html`, `reservar.html`
